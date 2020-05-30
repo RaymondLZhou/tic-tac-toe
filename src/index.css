@@ -50,6 +50,10 @@ ol, ul {
 }
 
 .button {
-  width: 180px;
+  width: 190px;
   text-align: left;
+}
+
+.square.winning {
+  background-color: #ffff00;
 }
