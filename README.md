@@ -1,17 +1,30 @@
-# Tic-tac-toe Game
+# Tic-tac-toe Game 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Tic-tac-toe Game created using React 
 
-## Getting Started
+## Getting Started 
 
-* Run the following
+* Run the following 
 
-```
-npm start
-```
+``` 
+npm install 
+``` 
 
-* The app can be accessed at [http://localhost:3000/](http://localhost:3000/)
+``` 
+npm start 
+``` 
 
-## License
+* The app can then be accessed at [http://localhost:3000/](http://localhost:3000/) 
+
+## Features 
+
+* Click to move
+* Displays current player and game status
+* Highlights winning squares
+* Jump to any previous move
+
+![Game Image](/images/image.png)
+
+## License 
 
 This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details
